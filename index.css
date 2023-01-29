@@ -1,0 +1,23 @@
+body {
+}
+h1 {
+  color: rgb(8, 149, 236);
+  font-family: "Arial";
+  font-size: 5em;
+  font-weight: 6000;
+  margin-bottom: 150px;
+}
+p {
+  margin-bottom: 70px;
+  height: 200px;
+  background-color: rgb(255, 0, 34);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+img {
+  width: 100%;
+  max-width: 900px;
+}
